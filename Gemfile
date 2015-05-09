@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rails-i18n'
 gem 'factory_girl_rails'
+gem 'react-rails', '~> 1.0'
 
 # asset/UI related:
 # updating these may change the behavior and look of the UI
